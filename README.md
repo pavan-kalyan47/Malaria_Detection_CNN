@@ -1,0 +1,1 @@
+# Malaria_Deytection_CNN
